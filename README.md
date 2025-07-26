@@ -66,7 +66,7 @@ Os arquivos de produção estão na pasta `dist/` e podem ser hospedados em qual
 - **Empresa**: STMQ - Serviços Técnicos em Metrologia e Qualidade
 - **Diretor Técnico**: Flávio Miranda
 - **Telefone**: (11) 99797-5039
-- **Email**: flavio-mb@hotmail.com
+- **Email**: flavio@stmw.com.br
 - **Site**: www.stmq.com.br
 
 ## 📝 Serviços Oferecidos
