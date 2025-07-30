@@ -4,7 +4,7 @@ import { Users, Award, Clock, Target, CheckCircle, ArrowRight } from 'lucide-rea
 
 const About = () => {
   const stats = [
-    { number: '10+', label: 'Anos de Experiência' },
+    { number: '25+', label: 'Anos de Experiência' },
     { number: '500+', label: 'Equipamentos Reparados' },
     { number: '100+', label: 'Clientes Satisfeitos' },
     { number: '24h', label: 'Tempo de Resposta' }

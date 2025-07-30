@@ -30,7 +30,7 @@ const Home = () => {
   const features = [
     {
       icon: <Users className="w-8 h-8 text-blue-600" />,
-      title: 'Mais de 10 anos de experiência',
+      title: 'Mais de 25 anos de experiência',
       description: 'Experiência consolidada no mercado de metrologia e qualidade'
     },
     {

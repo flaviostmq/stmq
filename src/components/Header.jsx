@@ -21,7 +21,7 @@ const Header = () => {
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
           <Link to="/" className="flex items-center">
-            <div className="text-2xl font-bold text-blue-600">STMQ</div>
+            <img src="/src/assets/LOGOSTMQ.png" alt="STMQ Logo" className="h-10 mr-2" />
             <div className="ml-2 text-sm text-gray-600 hidden sm:block">
               Serviços Técnicos em Metrologia e Qualidade
             </div>

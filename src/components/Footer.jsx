@@ -82,7 +82,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © 2024 STMQ - Serviços Técnicos em Metrologia e Qualidade. Todos os direitos reservados.
+            © 2025 STMQ - Serviços Técnicos em Metrologia e Qualidade. Todos os direitos reservados.
           </p>
           <p className="text-gray-400 mt-2">
             Diretor Técnico: Flávio Miranda de Barros
